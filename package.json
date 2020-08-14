@@ -46,7 +46,7 @@
     "@angular/core": "7.0.0-rc.0",
     "@angular/platform-browser": "7.0.0-rc.0",
     "@angular/platform-browser-dynamic": "7.0.0-rc.0",
-    "@types/vis": "^4.17.3",
+    "@types/vis": "^4.21.20",
     "fs-jetpack": "^0.10.2",
     "fuse.js": "^2.6.2",
     "ngast": "0.2.2",
