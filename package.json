@@ -40,12 +40,12 @@
     "build:linux": "npm run pack:linux && build \"dist/win/ngrev-linux-x64\" --platform=linux"
   },
   "dependencies": {
-    "@angular/common": "7.0.0-rc.0",
-    "@angular/compiler": "7.0.0-rc.0",
+    "@angular/common": "7.2.16",
+    "@angular/compiler": "7.2.16",
     "@angular/compiler-cli": "7.0.0-rc.0",
-    "@angular/core": "7.0.0-rc.0",
-    "@angular/platform-browser": "7.0.0-rc.0",
-    "@angular/platform-browser-dynamic": "7.0.0-rc.0",
+    "@angular/core": "7.2.16",
+    "@angular/platform-browser": "7.2.16",
+    "@angular/platform-browser-dynamic": "7.2.16",
     "@types/vis": "^4.17.3",
     "fs-jetpack": "^0.10.2",
     "fuse.js": "^2.6.2",
